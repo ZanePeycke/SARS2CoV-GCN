@@ -1,2 +1,2 @@
-# sars2Cov-GCN
+# SARS2CoV-GCN
 SARS2-CoV Protein model quality assessment using GCNs
